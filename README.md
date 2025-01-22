@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @janeisnotmine
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning JS, Java.
+- 👋 Hi, I’m @sleepywitches
+- 👀 I’m interested in coding... sometimes. I'm an illustrator in learning process.
+- 🌱 I’m currently learning Python and GDscript.
 
 <!---
 janeisnotmine/janeisnotmine is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
